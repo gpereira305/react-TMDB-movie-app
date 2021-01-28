@@ -18,15 +18,14 @@ Esse projeto contém as seguintes tecnologias:
 * ReacT Router	
  
 ## Installation
-Faça um clone desse repo e abra o arquivo HTML no navegador ou caso queira apenas ver o projeto online, acesse nesse link:  https://react-info-movies.netlify.app/
+Faça um clone desse repo e abra o arquivo > abra o terminal> digite npm install > vá até na pasta raiz do projeto > digite npm start > o projeto possivlemente abriará
+no navegador. Caso queira ver online, acesse o através desse link:  https://react-info-movies.netlify.app/
  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-```
-
 ## Demo
-
+![movie-info](https://user-images.githubusercontent.com/66249777/106081173-335f3c00-60f7-11eb-922c-0d581fcf988f.gif)
 
  
